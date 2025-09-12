@@ -20,3 +20,4 @@ if __name__ == "__main__":
             fizzbuzz(n)
     except ValueError:
         print("Invalid input. Please enter an integer number.")
+
