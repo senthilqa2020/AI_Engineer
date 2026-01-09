@@ -1,0 +1,5 @@
+Test ID,Test Name,Module,Status,Automation Tool
+TC001,Login Validation,Authentication,Pass,NA
+TC002,Logout Validation,Authentication,Pass,NA
+TC003,Add to Cart,Cart,Pass,Selenium
+TC004,Payment Flow,Checkout,Pass,Playwright
